@@ -31,3 +31,6 @@ We have learned about various clustering and classification techniques. We have 
 ## What's next for SMART SOCIAL
 We aim to incorporate an automatic reply mechanism for the structured messages and comments in the second phase of SMART SOCIAL. Automatically responding with a ‘Thankyou’ or a smiley, for thousands of messages wishing you or congratulating you, all at once, can save you a lot of time. Also, formatting a reply just once for numerous enquiries about your product, will make sure that the customer gets the information that he/she wants and helps to maintain your business.
 We will be extending our app to include other social media platforms. We will be also adding a self-learning model that could categorize messages based on the few inputs that you give.
+
+## Link to Video
+[Smart Social](https://youtu.be/tk2K76ujPGw)
